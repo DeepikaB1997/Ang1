@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+ <head>
+  <title>CSS | Backgroundproperties</title>
+   <style>
+  body{
+      background-color:yellow;
+	  
+  }
+  </style>
+ </head>
+ <body>
+  
+  <p>Over the course of human history, people have developed many interconnected and validated ideas about the physical, biological, psychological, and social worlds. Those ideas have enabled successive generations to achieve an increasingly comprehensive and reliable understanding of the human species and its environment. The means used to develop these ideas are particular ways of observing, thinking, experimenting, and validating. These ways represent a fundamental aspect of the nature of science and reflect how science tends to differ from other modes of knowing.
+It is the union of science, mathematics, and technology that forms the scientific endeavor and that makes it so successful. Although each of these human enterprises has a character and history of its own, each is dependent on and reinforces the others. Accordingly, the first three chapters of recommendations draw portraits of science, mathematics, and technology that emphasize their roles in the scientific endeavor and reveal some of the similarities and connections among them.
+This chapter lays out recommendations for what knowledge of the way science works is requisite for scientific literacy. The chapter focuses on three principal subjects: the scientific world view, scientific methods of inquiry, and the nature of the scientific enterprise. Chapters 2 and 3 consider ways in which mathematics and technology differ from science in general. Chapters 4 through 9 present views of the world as depicted by current science; Chapter 10, Historical Perspectives, covers key episodes in the development of science; and Chapter 11, Common Themes, pulls together ideas that cut across all these views of the world.
+�
+THE SCIENTIFIC WORLD VIEW
+Scientists share certain basic beliefs and attitudes about what they do and how they view their work. These have to do with the nature of the world and what can be learned about it.
+The World Is Understandable
+Science presumes that the things and events in the universe occur in consistent patterns that are comprehensible through careful, systematic study. Scientists believe that through the use of the intellect, and with the aid of instruments that extend the senses, people can discover patterns in all of nature.
+Science also assumes that the universe is, as its name implies, a vast single system in which the basic rules are everywhere the same. Knowledge gained from studying one part of the universe is applicable to other parts. For instance, the same principles of motion and gravitation that explain the motion of falling objects on the surface of the earth also explain the motion of the moon and the planets. With some modifications over the years, the same principles of motion have applied to other forces—and to the motion of everything, from the smallest nuclear particles to the most massive stars, from sailboats to space vehicles, from bullets to light rays.
+Scientific Ideas Are Subject To Change
+Science is a process for producing knowledge. The process depends both on making careful observations of phenomena and on inventing theories for making sense out of those observations. Change in knowledge is inevitable because new observations may challenge prevailing theories. No matter how well one theory explains a set of observations, it is possible that another theory may fit just as well or better, or may fit a still wider range of observations. In science, the testing and improving and occasional discarding of theories, whether new or old, go on all the time. Scientists assume that even if there is no way to secure complete and absolute truth, increasingly accurate approximations can be made to account for the world and how it works.
+Scientific Knowledge Is Durable
+Although scientists reject the notion of attaining absolute truth and accept some uncertainty as part of nature, most scientific knowledge is durable. The modification of ideas, rather than their outright rejection, is the norm in science, as powerful constructs tend to survive and grow more precise and to become widely accepted. For example, in formulating the theory of relativity, Albert Einstein did not discard the Newtonian laws of motion but rather showed them to be only an approximation of limited application within a more general concept. (The National Aeronautics and Space Administration uses Newtonian mechanics, for instance, in calculating satellite trajectories.) Moreover, the growing ability of scientists to make accurate predictions about natural phenomena provides convincing evidence that we really are gaining in our understanding of how the world works. Continuity and stability are as characteristic of science as change is, and confidence is as prevalent as tentativeness.
+Science Cannot Provide Complete Answers to All Questions
+There are many matters that cannot usefully be examined in a scientific way. There are, for instance, beliefs that—by their very nature—cannot be proved or disproved (such as the existence of supernatural powers and beings, or the true purposes of life). In other cases, a scientific approach that may be valid is likely to be rejected as irrelevant by people who hold to certain beliefs (such as in miracles, fortune-telling, astrology, and superstition). Nor do scientists have the means to settle issues concerning good and evil, although 
+
+  </p>
+  
+ </body>
+</html>
